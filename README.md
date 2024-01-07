@@ -7,7 +7,7 @@ In the dynamic landscape of human resources, understanding employee attrition pa
 
 **Key Project Highlights:**
 
-1. **Data Collection:** I initiated the project by collecting comprehensive data on employee attrition, leveraging various sources to ensure a holistic representation of workforce dynamics.
+1. **Data Collection:** I initiated the project by collecting comprehensive data on employee attrition, to ensure a holistic representation of workforce dynamics.
 
 2. **Data Transformation with Power Query:** Employing Power Query, I transformed raw data into a structured format, ensuring its readiness for in-depth analysis. This phase involved cleaning, filtering, and shaping the data to derive meaningful conclusions.
 
